@@ -1,0 +1,15 @@
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\bin\Debug\net6.0\NinjadeHierro.exe
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\bin\Debug\net6.0\NinjadeHierro.deps.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\bin\Debug\net6.0\NinjadeHierro.runtimeconfig.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\bin\Debug\net6.0\NinjadeHierro.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\bin\Debug\net6.0\NinjadeHierro.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.AssemblyInfo.cs
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\refint\NinjadeHierro.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\NinjadeHierro.genruntimeconfig.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\NinjadeHierro\obj\Debug\net6.0\ref\NinjadeHierro.dll
